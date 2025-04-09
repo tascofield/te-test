@@ -118,7 +118,7 @@ It may also do this in other circumstances (even when sample sizes are not equal
 <li> <p><code>null.value</code>: the specified hypothesized value of the mean difference.
 </p>
 </li>
-<li> <p><code>stderr</code>: the standard error of the mean difference, always <code class="reqn">\sqrt{{\sigma_x}^4+{\sigma_y}^4}</code>
+<li> <p><code>stderr</code>: the standard error of the mean difference, always <img src="https://github.com/user-attachments/assets/5242d914-8874-4f2f-95f4-54f5bf632908">
 </p>
 </li>
 <li> <p><code>alternative</code>: a character string describing the alternative hypothesis.
