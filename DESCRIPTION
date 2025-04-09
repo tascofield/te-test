@@ -1,0 +1,11 @@
+Package: te.test
+Type: Package
+Title: Te t-test
+Version: 1.0
+Date: 2025-04-08
+Author: github.com/tascofield
+Description: A fast implementation of the Te Test, as described in the paper "Te Test: A New Non-asymptotic T-test for Behrens-Fisher Problems".
+License: GPL3
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Roxygen: list(markdown = TRUE)
