@@ -141,7 +141,7 @@ te.test(1:10,c(7:20,200)) # P = .00009977306   (would be 0.1245135     with t.te
 ## Traditional interface
 with(mtcars, te.test(mpg[am == 0], mpg[am == 1]))
 
-## Formula interfacex
+## Formula interface
 te.test(mpg ~ am, data = mtcars)
 ```
 
