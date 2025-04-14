@@ -1,5 +1,5 @@
 # te.test
- A fast implementation in R of the T<sub>e</sub> Test, as described in the paper "[Te Test: A New Non-asymptotic T-test for Behrens-Fisher Problems](https://arxiv.org/abs/2210.16473)".
+ A fast implementation in R of the T<sub>e</sub> Test, as described in the paper "[Te Test: A New Non-asymptotic T-test for Behrens-Fisher Problems (Chang Wang, Jinzhu Jia)](https://arxiv.org/abs/2210.16473)".
 
 # Install 
 ```
